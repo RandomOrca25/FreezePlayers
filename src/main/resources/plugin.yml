@@ -1,0 +1,13 @@
+name: FreezePlayers1.0
+version: '1.0-RELEASE'
+main: com.orca.FreezePlayers.Main
+api-version: '1.21'
+authors: [ Turbo_orca25 ]
+description: Freeze plugin to freeze entities, good for minigames.
+website: example.com
+commands:
+  freezeplayer:
+    description: Freezes a player or group of players
+    usage: /<command> <player|selector>
+    permission: test1.freeze
+    permission-message: This command is only accessible to Admins and higher
