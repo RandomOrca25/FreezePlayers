@@ -1,4 +1,4 @@
-                                                                  ![Image](https://github.com/user-attachments/assets/491d77a9-2ad4-401a-acfc-fc88f8a9c3d2)
+ ![Image](https://github.com/user-attachments/assets/491d77a9-2ad4-401a-acfc-fc88f8a9c3d2)
 
 FreezePlayers is a simple yet powerful plugin designed to give server administrators full control over the ability to walk. 
 It allows you to freeze individual players or even the entire server with ease. Whether you're dealing with a troublemaker, 
