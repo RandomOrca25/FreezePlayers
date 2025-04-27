@@ -1,0 +1,13 @@
+name: Test1
+version: '1.0-SNAPSHOT'
+main: com.orca.test1.Main
+api-version: '1.21'
+authors: [ Turbo_orca25 ]
+description: Freeze plugin to freeze entities, good for minigames.
+website: https://ranks.zapto.org
+commands:
+  freezeplayer:
+    description: Freezes a player or group of players
+    usage: /<command> <player|selector>
+    permission: test1.freeze
+    permission-message: This command is only accessible to Admins and higher
