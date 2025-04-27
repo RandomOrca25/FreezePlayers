@@ -4,15 +4,14 @@ FreezePlayers is a simple yet powerful plugin designed to give server administra
 It allows you to freeze individual players or even the entire server with ease. Whether you're dealing with a troublemaker, 
 organizing a special event, or simply want to catch a player's attention, FreezePlayers is the perfect tool for the job.
 
-With the /freezeplayer command, administrators can instantly freeze a specific player, ensuring they are unable to 
-move but can interact with the world around them, ensuring anything important in the area is full-fillied for the affected player. This feature can be useful for resolving conflicts, moderating playe
-r behavior, or creating memorable moments during live events.
+With the /freezeplayer command, administrators or command blocks can instantly freeze a specific player, ensuring they are unable to 
+move but can interact with world around them, ensuring players could, for example, select a kit for a minigame. This feature can be useful for resolving conflicts, moderating player behavior, or creating amazing live events.
 
 In addition, the plugin allows you to freeze entire teams or groups of players—ideal for organizing mini-games, 
 team-based challenges, or competitions. You can use this feature to halt certain teams at key moments during
-gameplay, ensuring fairness and adding strategic elements to your games.
+gameplay, ensuring for example an announcement saying: "golden apples dropped at x:100 y:20"
 
-Some key features of the FreezePlayers plugin include:
+Here is the list of all features of the FreezePlayers plugin includes:
 
 Single Player Freeze: Freeze individual players using the /freezeplayer <player> command.
 
