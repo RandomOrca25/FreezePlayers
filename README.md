@@ -11,7 +11,7 @@ In addition, the plugin allows you to freeze entire teams or groups of playersâ€
 team-based challenges, or competitions. You can use this feature to halt certain teams at key moments during
 gameplay, ensuring for example an announcement saying: "golden apples dropped at x:100 y:20"
 
-Here is the list of all features of the FreezePlayers plugin includes:
+Here is the list of all features of the FreezePlayers plugin:
 
 Single Player Freeze: Freeze individual players using the /freezeplayer <player> command.
 
