@@ -2,7 +2,7 @@
 
  Places to download:
  Github [you are here]                                                                                               
- SpigotMC: https://www.spigotmc.org/resources/freezeplayers.124481/
+ SpigotMC: https://www.spigotmc.org/resources/freezeplayers.124481/                                                                 
  Modrinth: https://modrinth.com/plugin/freezeplayers
 
 FreezePlayers is a simple yet powerful plugin designed to give server administrators full control over the ability to walk. 
