@@ -1,10 +1,16 @@
 ![Image](https://github.com/user-attachments/assets/491d77a9-2ad4-401a-acfc-fc88f8a9c3d2)
 
-FreezePlayers is a simple yet powerful plugin designed to give server administrators full control over the ability to walk. It allows you to freeze individual players or even the entire server with ease. Whether you're dealing with a troublemaker, organizing a special event, or simply want to catch a player's attention, FreezePlayers is the perfect tool for the job.
+FreezePlayers is a simple yet powerful plugin designed to give server administrators full control over the ability to walk. 
+It allows you to freeze individual players or even the entire server with ease. Whether you're dealing with a troublemaker, 
+organizing a special event, or simply want to catch a player's attention, FreezePlayers is the perfect tool for the job.
 
-With the /freezeplayer command, administrators can instantly freeze a specific player, ensuring they are unable to move or interact with the world around them. This feature can be useful for resolving conflicts, moderating player behavior, or creating memorable moments during live events.
+With the /freezeplayer command, administrators can instantly freeze a specific player, ensuring they are unable to 
+move or interact with the world around them. This feature can be useful for resolving conflicts, moderating playe
+r behavior, or creating memorable moments during live events.
 
-In addition, the plugin allows you to freeze entire teams or groups of players—ideal for organizing mini-games, team-based challenges, or competitions. You can use this feature to halt certain teams at key moments during gameplay, ensuring fairness and adding strategic elements to your games.
+In addition, the plugin allows you to freeze entire teams or groups of players—ideal for organizing mini-games, 
+team-based challenges, or competitions. You can use this feature to halt certain teams at key moments during
+gameplay, ensuring fairness and adding strategic elements to your games.
 
 Some key features of the FreezePlayers plugin include:
 
