@@ -5,7 +5,7 @@ It allows you to freeze individual players or even the entire server with ease. 
 organizing a special event, or simply want to catch a player's attention, FreezePlayers is the perfect tool for the job.
 
 With the /freezeplayer command, administrators can instantly freeze a specific player, ensuring they are unable to 
-move or interact with the world around them. This feature can be useful for resolving conflicts, moderating playe
+move but can interact with the world around them, ensuring anything important in the area is full-fillied for the affected player. This feature can be useful for resolving conflicts, moderating playe
 r behavior, or creating memorable moments during live events.
 
 In addition, the plugin allows you to freeze entire teams or groups of players—ideal for organizing mini-games, 
